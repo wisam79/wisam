@@ -1,9 +1,9 @@
-# Youtube Dl bot 😉
+# wisam
 ## Prerequisite
     ffmpeg
   
-    
-## install dependencies
+  
+## install dependencies 
     pip3 install -r requirements.txt
 
 
